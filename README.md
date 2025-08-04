@@ -34,6 +34,32 @@
 
 ###
 
+## 🎓 Education
+
+---
+### 🏛️ Bachelor of Science in Computer Science & Engineering
+**International University of Business Agriculture and Technology (IUBAT)**  
+📍 Dhaka, Bangladesh  
+📅 2022 - Present  
+🎯 **CGPA:** 3.87/4.00  
+📚 **Status:** Currently Pursuing  
+📖 Pursuing comprehensive education in Computer Science and Engineering .
+
+---
+
+### 🏫 Higher Secondary Certificate (HSC)
+**Shafiuddin Sarkar Academy & Collage**  
+📍 Gazipur, Bangladesh  
+📅 2018 - 2020  
+🎯 **GPA:** 5.00/5.00  
+📚 **Status:** Completed  
+🔬 **Group:** Science  
+🏆 Completed higher secondary education with excellent academic performance.
+
+
+---
+
+
 <h3 align="left">💻 Languages</h3>
 
 <div align="left">
@@ -49,8 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -82,7 +106,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div>
-
 <h3 align="left">🛠 Tools</h3>
 <div align="left">
   <!-- Tools & Platforms -->
@@ -101,9 +124,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
 </div>
 
-
 ###
-
+---
 <h3 align="left">📊 My GitHub Stats</h3>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Almamun001&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
