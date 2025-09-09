@@ -26,12 +26,12 @@
 <h3 align="left">👨‍💻 About Me</h3>
   I'm a final-year CSE undergraduate student from IUBAT, Dhaka, Bangladesh.<br><br>
   
-  - 💻 Passionate about building AI-powered applications
-  - 🚀 Focused on solving real-world problems with Machine Learning & Software Engineering
-  - 🔍 Currently exploring **Machine Learning, Deep Learning, and Mobile App Development**
-  - 💬 Ask me about **Machine Learning & Mobile App Development/Software Development**
-  - 📫 Reach me at: **almamun2148@gmail.com**
-  - 🗃️ Visit my portfolio at: **[aalmamun.me](https://aalmamun.me/)**
+- 💻 I’m passionate about building **AI-powered applications** 
+- 🚀 I focus on solving real-world problems through **Machine Learning and Software Engineering** 
+- 🔍 I’m currently exploring **Deep Learning, Machine Learning, and Mobile App Development** 
+- 💬 Ask me about **Machine Learning, Deep Learning, and Mobile App Development** 
+- 📫 Reach me at **[almamun2148@gmail.com](mailto:almamun2148@gmail.com)** 
+- 🗃️ Check out my portfolio: **[aalmamun.me](https://aalmamun.me/)** 
 
 ###
 
