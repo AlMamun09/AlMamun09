@@ -29,7 +29,7 @@
 - 💻 I’m passionate about building **AI-powered applications** 
 - 🚀 I focus on solving real-world problems through **Machine Learning and Software Engineering** 
 - 🔍 I’m currently exploring **Deep Learning, Machine Learning, and Mobile App Development** 
-- 💬 Ask me about **Machine Learning, Deep Learning, and Mobile App Development** 
+- 💬 Ask me about **Machine Learning, Natural Language Processing, and Mobile App Development** 
 - 📫 Reach me at **[almamun2148@gmail.com](mailto:almamun2148@gmail.com)** 
 - 🗃️ Check out my portfolio: **[aalmamun.me](https://aalmamun.me/)** 
 
