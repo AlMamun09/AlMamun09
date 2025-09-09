@@ -29,7 +29,7 @@
   - 💻 Passionate about building AI-powered applications
   - 🚀 Focused on solving real-world problems with Machine Learning & Software Engineering
   - 🔍 Currently exploring **Machine Learning, Deep Learning, and Mobile App Development**
-  - 💬 Ask me about **Python, Machine Learning, Deep Learning, Transformers, Flutter App Development**
+  - 💬 Ask me about **Machine Learning & Mobile App Development/Software Development**
   - 📫 Reach me at: **almamun2148@gmail.com**
   - 🗃️ Visit my portfolio at: **[aalmamun.me](https://aalmamun.me/)**
 
