@@ -120,11 +120,11 @@ Gazipur, Bangladesh
 
 ## 📊 Stats
 <p align="center">
-  <img width="100%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlMamun09&theme=algolia&show_icons=true&bg_color=00000000&hide_border=false" />
-  <br/><br/>
-  <img width="100%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=AlMamun09&theme=algolia&hide_border=false" />
-  <br/><br/>
-  <img width="100%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlMamun09&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&theme=algolia&bg_color=00000000&hide_border=false" />
+  <img width="100%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlMamun09&theme=algolia&show_icons=true&bg_color=00000000&hide_border=false" />
+  
+  <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=AlMamun09&theme=algolia&hide_border=false" />
+  
+  <img width="100%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlMamun09&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&theme=algolia&bg_color=00000000&hide_border=false" />
 </p>
 
 </td>
