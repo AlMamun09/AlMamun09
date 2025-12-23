@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey there 👋, I'm Abdullah Al Mamun</h1>
 <p align="center">
-  AI & ML Enthusiast • Software Developer • Final-year CSE Student at IUBAT
+  Software Developer (.NET Core) • AI & ML Enthusiast • Final-year CSE Student at IUBAT
 </p>
 
 <div align="center">
@@ -44,7 +44,7 @@
 **International University of Business Agriculture and Technology (IUBAT)**  
 Dhaka, Bangladesh  
 📅 2022 – Present  
-🎯 CGPA: 3.87 / 4.00  
+🎯 CGPA: 3.88 / 4.00  
 📚 Status: Currently pursuing  
 📖 Pursuing a comprehensive education in Computer Science and Engineering.
 
