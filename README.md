@@ -27,7 +27,7 @@
 ## 👨‍💻 About Me
 - I’m a final-year CSE undergraduate student at IUBAT, Dhaka, Bangladesh.
 - Passionate about building AI-powered applications and solving real-world problems.
-- Currently exploring Deep Learning, Machine Learning, and Software Development.
+- Currently exploring Software Development (.NET Core) and Machine Learning.
 - Ask me about Machine Learning, Natural Language Processing, and ASP .Net Core.
 - 📫 Reach me at: [almamun2148@gmail.com](mailto:almamun2148@gmail.com)  
 - 🌐 Portfolio: [aalmamun.me](https://aalmamun.me/)
